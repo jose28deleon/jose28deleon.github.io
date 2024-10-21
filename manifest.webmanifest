@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "Hacer la lista de supermercado facilmente.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lista de Supermercado",
+  "short_name": "El Super",
+  "start_url": "/pwasfi/index2.html"
+}
